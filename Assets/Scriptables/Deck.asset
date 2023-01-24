@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b699cda3f7e941d5b89b67d9d6a6095, type: 3}
+  m_Name: Deck
+  m_EditorClassIdentifier: 
+  _cards:
+  - _points: 0
+    _picture: {fileID: 21300000, guid: cd021d3481c9e4b93a2d8d45b0f8fd67, type: 3}
+  - _points: 1
+    _picture: {fileID: 21300000, guid: ceb9e1529a6ef40f0882ded863ca5bb1, type: 3}
+  - _points: 2
+    _picture: {fileID: 21300000, guid: 27241c7edb5b64178a3c8ce6038e49a8, type: 3}
+  - _points: 3
+    _picture: {fileID: 21300000, guid: af2df6f36440c45e2a67511d55bf544e, type: 3}
+  - _points: 4
+    _picture: {fileID: 21300000, guid: 65c4ef3b79fa148b2a0cf0119d981089, type: 3}
+  - _points: 5
+    _picture: {fileID: 21300000, guid: ad2cfbf25aa6542daad51ac96db30e8e, type: 3}
+  - _points: 6
+    _picture: {fileID: 21300000, guid: 0755de637b4c145e490e7c47f4465c8b, type: 3}
+  - _points: 7
+    _picture: {fileID: 21300000, guid: 7812441133f59489bb0e53f15ff7217e, type: 3}
+  - _points: 8
+    _picture: {fileID: 21300000, guid: 0b733d1c9fba941dcb54dd0804323752, type: 3}
+  - _points: 9
+    _picture: {fileID: 21300000, guid: 3da8ef463f50f44f482d94b4e313b529, type: 3}
+  - _points: 10
+    _picture: {fileID: 21300000, guid: 69b990645be014b299029594c1488a40, type: 3}
+  - _points: 11
+    _picture: {fileID: 21300000, guid: 4e3155de615624250a5e9a91108dba59, type: 3}
+  - _points: 12
+    _picture: {fileID: 21300000, guid: 01c6f38b51c7c4ab8b3379108792de7a, type: 3}
+  - _points: 13
+    _picture: {fileID: 21300000, guid: 2bafe8aa3c5c44aa9ac538a836bf2416, type: 3}
+  - _points: 14
+    _picture: {fileID: 21300000, guid: 1d9747f1fa29643ae8ff94f24326b810, type: 3}
+  - _points: 15
+    _picture: {fileID: 21300000, guid: f6efa9f9eb7384b02bcfcfcb5382637a, type: 3}
+  - _points: 16
+    _picture: {fileID: 21300000, guid: 494295f2d7dbd4f32bab1b61d7060680, type: 3}
+  - _points: 17
+    _picture: {fileID: 21300000, guid: a2c124f57ad3d44b283216f110144f65, type: 3}
+  - _points: 18
+    _picture: {fileID: 21300000, guid: 1056e272af2234c6796f241c9a4b5283, type: 3}
+  - _points: 19
+    _picture: {fileID: 21300000, guid: 3483c272ac58f4d5d828db2e376253b2, type: 3}
+  - _points: 20
+    _picture: {fileID: 21300000, guid: dc727866009094eaea087c57dd2b35f2, type: 3}
+  - _points: 21
+    _picture: {fileID: 21300000, guid: a9e06158a37634ecaa3525a9e0a56e40, type: 3}
